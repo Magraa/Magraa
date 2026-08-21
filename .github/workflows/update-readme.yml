@@ -67,21 +67,46 @@ jobs:
                   print(f"::warning::skip {repo}@{sha[:7]}: HTTP {e.code}")
                   continue
 
+          REPO_ICON = {
+              "simvox-ai": "📱",
+              "mrproper": "🧴",
+              "proper-perks": "🧴",
+              "mr-proper": "🧴",
+              "tender-bill-automation": "📑",
+              "tender-automation": "📑",
+              "coupletrust": "🤝",
+              "ai-expense-tracker": "💰",
+              "adb-developer-studio": "🧭",
+              "magraa": "📄",
+          }
+
+          def icon_for(repo_short):
+              key = repo_short.lower()
+              for needle, icon in REPO_ICON.items():
+                  if needle in key:
+                      return icon
+              return "🔧"
+
           if commits:
-              lines = []
+              rows = []
               for c in commits:
                   repo_short = c["repo"].split("/")[-1]
                   commit_url = f"https://github.com/{c['repo']}/commit/{c['full_sha']}"
                   repo_url = f"https://github.com/{c['repo']}"
-                  lines.append(
-                      f"- `{c['date']}` **[{repo_short}]({repo_url})** — {c['msg']} ([`{c['sha']}`]({commit_url}))"
+                  icon = icon_for(repo_short)
+                  rows.append(
+                      f"| `{c['date']}` | {icon} [**{repo_short}**]({repo_url}) | {c['msg']} | [`{c['sha']}`]({commit_url}) |"
                   )
-              block = "\n".join(lines)
+              block = (
+                  "| Date | Repo | Commit | SHA |\n"
+                  "|:---|:---|:---|:---|\n"
+                  + "\n".join(rows)
+              )
           else:
               block = "_No recent push activity found._"
 
           now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-          block += f"\n\n<sub>Auto-updated {now} via GitHub Actions.</sub>"
+          block += f"\n\n<sub>🔄 Auto-updated {now} via GitHub Actions.</sub>"
 
           with open("README.md", "r", encoding="utf-8") as f:
               content = f.read()
