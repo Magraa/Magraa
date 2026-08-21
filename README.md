@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/🟢_Open_to_Work-Software%20Developer%20Roles-2ea44f?style=for-the-badge" />
+</p>
+
+<p align="center">
   <a href="mailto:agrawalmayank1111@gmail.com"><img src="https://img.shields.io/badge/Email-agrawalmayank1111%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mayank-agrawal-532967192"><img src="https://img.shields.io/badge/LinkedIn-Mayank%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Magraa"><img src="https://komarev.com/ghpvc/?username=Magraa&color=e0a24a&style=for-the-badge&label=Profile+Views" /></a>
@@ -20,7 +24,8 @@
 about_me:
   name: Mayank Agrawal
   role: Software Developer — MERN | Backend | AI Automation
-  currently: Building scalable web apps & RESTful APIs @ Bittern Technologies
+  status: Open to new opportunities — actively interviewing
+  previously: Software Developer @ Bittern Technologies (Apr 2024 – Dec 2025)
   focus: Backend architecture, cloud infra, and using AI to remove repetitive work
   education: Integrated B.Tech + MBA (IT), ABV-IIITM Gwalior
   achievements:
