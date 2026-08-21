@@ -17,7 +17,7 @@ jobs:
 
       - name: Fetch recent activity and update README
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
           GH_USER: Magraa
         run: |
           python3 - <<'PY'
