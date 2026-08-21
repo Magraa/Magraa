@@ -3,24 +3,25 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=E0A24A&center=true&vCenter=true&width=560&lines=Designing+backend+systems+that+hold+up;MERN+%7C+Python+%7C+AI+Automation;APIs%2C+dashboards%2C+and+automation+tools" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=E0A24A&center=true&vCenter=true&width=600&lines=Designing+backend+systems+that+hold+up;MERN+%7C+Python+%7C+AI+Automation;I+automate+the+boring+part+of+the+workflow" />
 </p>
 
 <p align="center">
   <a href="mailto:agrawalmayank1111@gmail.com"><img src="https://img.shields.io/badge/Email-agrawalmayank1111%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mayank-agrawal-532967192"><img src="https://img.shields.io/badge/LinkedIn-Mayank%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Magraa"><img src="https://komarev.com/ghpvc/?username=Magraa&color=e0a24a&style=for-the-badge&label=Profile+Views" /></a>
 </p>
 
----
+<br/>
 
-### About me
+### 🧑‍💻 About me
 
 ```yaml
 about_me:
   name: Mayank Agrawal
   role: Software Developer — MERN | Backend | AI Automation
   currently: Building scalable web apps & RESTful APIs @ Bittern Technologies
-  focus: Backend architecture, cloud infra, AI-driven automation tools
+  focus: Backend architecture, cloud infra, and using AI to remove repetitive work
   education: Integrated B.Tech + MBA (IT), ABV-IIITM Gwalior
   achievements:
     - 300+ DSA problems solved
@@ -28,7 +29,9 @@ about_me:
   reach_me: agrawalmayank1111@gmail.com
 ```
 
-### Tech Stack
+<br/>
+
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,cpp,react,nodejs,express,mongodb,docker,aws,git,github,postman&perline=6" />
@@ -63,7 +66,7 @@ about_me:
 <td valign="top" width="25%">
 
 **Data & AI**
-- LangChain
+- LangChain · Google Gemini
 - Pandas · NumPy
 - Matplotlib
 
@@ -71,9 +74,30 @@ about_me:
 </tr>
 </table>
 
-### Currently building
+<br/>
+
+### 🚀 Featured Projects
+
+A pattern runs through most of these: find the most repetitive, manual part of a workflow, and build a system that removes the human from the loop.
 
 <table>
+<tr>
+<td width="70%">
+
+**📱⚡ SIMVox-AI (CallVox AI)**  ·  [source](https://github.com/Magraa/SIMVox-AI)
+
+An autonomous AI voice agent that turns any Android phone into a real cellular receptionist — no Twilio, no VoIP fees, no SIP trunks. It bridges a PC straight to an Android handset over **ADB and real hardware audio channels**, routes live call audio through **Google Gemini** for reasoning and **Microsoft Edge neural TTS** for sub-second, natural-sounding replies, and auto-answers or places outbound calls entirely on its own. A glassmorphic desktop dashboard shows live waveforms, live transcripts, and a searchable CRM of every call, with configurable personas for reception, scheduling, or sales — all running over a real SIM and a real phone number.
+
+</td>
+<td valign="top" width="30%">
+
+`Python` `Google Gemini`
+`Edge-TTS` `ADB`
+`PyWebView` `SQLite`
+
+</td>
+</tr>
+
 <tr>
 <td width="70%">
 
@@ -87,6 +111,23 @@ A full-stack operations platform for Mr. Proper's painter and contractor network
 `Next.js` `Supabase`
 `TypeScript` `Tailwind`
 `Razorpay` `Google Maps API`
+
+</td>
+</tr>
+
+<tr>
+<td width="70%">
+
+**📑 Magra Tender Automation Panel**  ·  <sub>private repo</sub>
+
+Probably the clearest example of how I like to automate: government tender paperwork is slow and repetitive, so this turns "enter the tender details once" into a full document pipeline — auto-generating the public tender notice, quotations, supply orders, and firm bills, each rendered onto a firm-specific letterhead with a print-precise A4 layout engine. An **AI drafting layer** (with automatic fallback across Gemini, OpenAI, Groq, and NVIDIA) writes procurement-grade language in **Hindi or English**, backed by a master "purpose library" and a Hindi transliteration dictionary so every document stays consistent. Every edit is versioned, and the whole thing runs fully offline against a local database.
+
+</td>
+<td valign="top" width="30%">
+
+`Next.js 15` `TypeScript`
+`TipTap` `IndexedDB`
+`Multi-provider AI`
 
 </td>
 </tr>
@@ -135,24 +176,11 @@ Desktop suite for Android developers — one-click ADB wireless reconnect, a bui
 
 </td>
 </tr>
-
-<tr>
-<td width="70%">
-
-**🖼️ Interactive UI Prototype Viewer**  ·  [source](https://github.com/Magraa/interactive-ui-prototype-viewer)
-
-Offline-first web app that turns static UI screenshots into clickable prototypes, with device frames, hotspot linking, and project management.
-
-</td>
-<td valign="top" width="30%">
-
-`JavaScript`
-
-</td>
-</tr>
 </table>
 
-### GitHub Stats
+<br/>
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=Magraa&show_icons=true&theme=tokyonight&hide_border=true" />
