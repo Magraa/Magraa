@@ -1,1 +1,97 @@
-placeholder
+name: Update README activity
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch recent activity and update README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: Magraa
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request, re, datetime
+
+          user = os.environ["GH_USER"]
+          token = os.environ["GH_TOKEN"]
+
+          req = urllib.request.Request(
+              f"https://api.github.com/users/{user}/events/public?per_page=50",
+              headers={
+                  "Authorization": f"token {token}",
+                  "Accept": "application/vnd.github+json",
+                  "User-Agent": user,
+              },
+          )
+          with urllib.request.urlopen(req) as resp:
+              events = json.load(resp)
+
+          commits = []
+          for ev in events:
+              if ev.get("type") != "PushEvent":
+                  continue
+              repo = ev["repo"]["name"]
+              for c in ev["payload"].get("commits", []):
+                  if not c.get("message"):
+                      continue
+                  msg = c["message"].splitlines()[0].strip()
+                  if len(msg) > 72:
+                      msg = msg[:69] + "..."
+                  commits.append({
+                      "repo": repo,
+                      "sha": c["sha"][:7],
+                      "full_sha": c["sha"],
+                      "msg": msg,
+                      "date": ev["created_at"][:10],
+                  })
+
+          commits = commits[:5]
+
+          if commits:
+              lines = []
+              for c in commits:
+                  repo_short = c["repo"].split("/")[-1]
+                  commit_url = f"https://github.com/{c['repo']}/commit/{c['full_sha']}"
+                  repo_url = f"https://github.com/{c['repo']}"
+                  lines.append(
+                      f"- `{c['date']}` **[{repo_short}]({repo_url})** — {c['msg']} ([`{c['sha']}`]({commit_url}))"
+                  )
+              block = "\n".join(lines)
+          else:
+              block = "_No recent public push activity._"
+
+          now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+          block += f"\n\n<sub>Auto-updated {now} via GitHub Actions.</sub>"
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          new_content = re.sub(
+              r"(<!--LATEST_ACTIVITY:START-->)(.*?)(<!--LATEST_ACTIVITY:END-->)",
+              lambda m: m.group(1) + "\n" + block + "\n" + m.group(3),
+              content,
+              flags=re.DOTALL,
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_content)
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet --cached || git commit -m "chore: auto-update latest activity [skip ci]"
+          git push
