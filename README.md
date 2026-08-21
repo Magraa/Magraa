@@ -187,16 +187,19 @@ Desktop suite for Android developers — one-click ADB wireless reconnect, a bui
 
 ### ⚡ Latest Activity
 
-<sub>This section rewrites itself — a GitHub Action pulls my most recent commits every 6 hours and pushes the update, no manual edits.</sub>
+<p>
+  <img src="https://img.shields.io/badge/auto--updated-every%206h-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/source-GitHub%20Actions-e0a24a?style=flat-square" />
+</p>
+
+<sub>This whole section rewrites itself — a GitHub Action pulls my most recent commits every 6 hours and pushes the update. No manual edits, ever.</sub>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Magraa&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
 
 <!--LATEST_ACTIVITY:START-->
-- `2026-08-21` **[Magraa](https://github.com/Magraa/Magraa)** — Add files via upload ([`e78d450`](https://github.com/Magraa/Magraa/commit/e78d4508fda165473e652642b83bc412cb100849))
-- `2026-08-21` **[Magraa](https://github.com/Magraa/Magraa)** — Add files via upload ([`d2601ac`](https://github.com/Magraa/Magraa/commit/d2601ac960f80bf1432cf6f151967af73c73f676))
-- `2026-08-21` **[Magraa](https://github.com/Magraa/Magraa)** — Add placeholder to update-readme.yml workflow ([`99c02e8`](https://github.com/Magraa/Magraa/commit/99c02e8139caec82bc2f8252e4cbc0248847de67))
-- `2026-08-21` **[SIMVox-AI](https://github.com/Magraa/SIMVox-AI)** — Merge pull request #5 from Magraa/feature/cli-doc-polish ([`facbbb4`](https://github.com/Magraa/SIMVox-AI/commit/facbbb421baf574b7ce838dff5af495b0d9922d1))
-- `2026-08-21` **[Magraa](https://github.com/Magraa/Magraa)** — Add files via upload ([`758b716`](https://github.com/Magraa/Magraa/commit/758b716b1244f18cd40bf46071e96b29eec1ed9a))
-
-<sub>Auto-updated 2026-08-21 16:55 UTC via GitHub Actions.</sub>
+_No recent activity pulled yet — check back after the next scheduled run, or trigger the workflow manually from the Actions tab._
 <!--LATEST_ACTIVITY:END-->
 
 <br/>
