@@ -40,6 +40,9 @@ jobs:
 
           push_events = [ev for ev in events if ev.get("type") == "PushEvent"]
           print(f"::notice::Fetched {len(events)} events, {len(push_events)} PushEvents, {sum(1 for e in events if not e.get('public', True))} private")
+          for ev in push_events[:10]:
+              n = len(ev.get("payload", {}).get("commits", []))
+              print(f"::notice::push to {ev['repo']['name']} at {ev['created_at']} -> {n} commits in payload")
 
           commits = []
           for ev in events:
