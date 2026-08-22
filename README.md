@@ -20,7 +20,7 @@
 
 ### 🧑‍💻 About Me
 
-<img align="right" width="270" src="https://raw.githubusercontent.com/Magraa/Magraa/main/assets/coder.gif" alt="Developer coding animation" />
+<img align="right" width="333" src="https://raw.githubusercontent.com/Magraa/Magraa/main/assets/coder.gif" alt="Developer coding animation" />
 
 ```yaml
 about_me:
