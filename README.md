@@ -20,15 +20,18 @@
 
 ### 🧑‍💻 About Me
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/Magraa/Magraa/main/assets/coder.gif" alt="Developer coding animation" />
+<img align="right" height="205" src="https://raw.githubusercontent.com/Magraa/Magraa/main/assets/coder.gif" alt="Developer coding animation" />
 
-I am a **Full Stack & Backend Developer** and **AI Automation Engineer** passionate about designing resilient architectures, high-performance APIs, and autonomous systems that remove repetitive manual work.
-
-- 🔭 **Current Focus**: Architecting high-throughput distributed backends, real-time workflows, and multi-LLM orchestration pipelines.
-- 🎓 **Education**: Integrated B.Tech + MBA in Information Technology from **ABV-IIITM Gwalior**.
-- ⚙️ **Core Stack**: Node.js / Express, Python / FastAPI, Next.js, PostgreSQL, Supabase, and Cloud Infrastructure.
-- 🌟 **Open Source**: Hacktoberfest Contributor (`'19`, `'21`, `'22`) and active builder of open-source utilities.
-- 🚀 **Open to Work**: Actively exploring impactful Software Developer & Backend roles.
+```yaml
+about_me:
+  name: Mayank Agrawal
+  role: Full Stack & Backend Developer · AI Automation Engineer
+  status: 🚀 Open to Software Developer opportunities
+  focus: Distributed systems, high-performance APIs & AI workflows
+  education: Integrated B.Tech + MBA (IT) · ABV-IIITM Gwalior
+  open_source: Active Contributor (Hacktoberfest '19, '21, '22)
+  reach_me: agrawalmayank1111@gmail.com
+```
 
 <br clear="both"/>
 
