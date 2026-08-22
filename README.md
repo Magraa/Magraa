@@ -20,7 +20,7 @@
 
 ### 🧑‍💻 About Me
 
-<img align="right" width="310" src="https://raw.githubusercontent.com/Magraa/Magraa/main/assets/06f21a161921919.63cd7887d0a70.gif" alt="Developer animation" />
+<img align="right" width="250" src="https://raw.githubusercontent.com/Magraa/Magraa/main/assets/06f21a161921919.63cd7887d0a70.gif" alt="Developer animation" />
 
 ```yaml
 about_me:
