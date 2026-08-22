@@ -20,16 +20,16 @@
 
 ### 🧑‍💻 About Me
 
-<img align="right" height="205" src="https://raw.githubusercontent.com/Magraa/Magraa/main/assets/coder.gif" alt="Developer coding animation" />
+<img align="right" width="270" src="https://raw.githubusercontent.com/Magraa/Magraa/main/assets/coder.gif" alt="Developer coding animation" />
 
 ```yaml
 about_me:
   name: Mayank Agrawal
-  role: Full Stack & Backend Developer · AI Automation Engineer
-  status: 🚀 Open to Software Developer opportunities
-  focus: Distributed systems, high-performance APIs & AI workflows
-  education: Integrated B.Tech + MBA (IT) · ABV-IIITM Gwalior
-  open_source: Active Contributor (Hacktoberfest '19, '21, '22)
+  role: Full Stack & Backend Dev · AI Automation
+  status: 🚀 Open to Software Developer roles
+  focus: Distributed systems, APIs & AI pipelines
+  education: B.Tech + MBA (IT), ABV-IIITM Gwalior
+  open_source: Hacktoberfest ('19, '21, '22)
   reach_me: agrawalmayank1111@gmail.com
 ```
 
