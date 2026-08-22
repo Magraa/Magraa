@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:e0a24a&height=180&section=header&text=Mayank%20Agrawal&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20-%20MERN%20%7C%20Backend%20%7C%20AI%20Automation&descAlignY=65&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:e0a24a&height=210&section=header&text=Mayank%20Agrawal&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20-%20MERN%20%7C%20Backend%20%7C%20AI%20Automation&descAlignY=74&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=E0A24A&center=true&vCenter=true&width=600&lines=Designing+backend+systems+that+hold+up;MERN+%7C+Python+%7C+AI+Automation;I+automate+the+boring+part+of+the+workflow" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=E0A24A&center=true&vCenter=true&width=650&lines=Architecting+scalable+backend+systems;Full+Stack+MERN+%7C+Python+%7C+Cloud;Autonomous+AI+Agents+%26+Automation+Workflows;Turning+complex+manual+processes+into+1-click+pipelines" />
 </p>
 
 <p align="center">
@@ -18,19 +18,16 @@
 
 <br/>
 
-### 🧑‍💻 About me
+### 🧑‍💻 About Me
 
 ```yaml
 about_me:
   name: Mayank Agrawal
-  role: Software Developer — MERN | Backend | AI Automation
-  status: Open to new opportunities — actively interviewing
-  previously: Software Developer @ Bittern Technologies (Apr 2024 – Dec 2025)
-  focus: Backend architecture, cloud infra, and using AI to remove repetitive work
-  education: Integrated B.Tech + MBA (IT), ABV-IIITM Gwalior
-  achievements:
-    - 300+ DSA problems solved
-    - Hacktoberfest contributor (2019, 2021, 2022)
+  role: Full Stack & Backend Developer · AI Automation Engineer
+  status: 🚀 Open to Software Developer opportunities — actively interviewing
+  focus: Distributed backend architecture, high-performance APIs, and AI workflow engineering
+  education: Integrated B.Tech + MBA (IT) · ABV-IIITM Gwalior
+  open_source: Active Contributor (Hacktoberfest '19, '21, '22)
   reach_me: agrawalmayank1111@gmail.com
 ```
 
@@ -39,7 +36,7 @@ about_me:
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,react,nodejs,express,mongodb,docker,aws,git,github,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,supabase,docker,aws,git,github,postman,tailwind&perline=8" />
 </p>
 
 <table>
@@ -47,33 +44,33 @@ about_me:
 <td valign="top" width="25%">
 
 **Languages**
-- Python
-- JavaScript
-- C / C++
+- Python · TypeScript
+- JavaScript · C / C++
+- SQL · HTML / CSS
 
 </td>
 <td valign="top" width="25%">
 
 **Web & Backend**
-- React.js
-- Node.js / Express.js
-- REST APIs · MongoDB
+- React.js · Next.js
+- Node.js · Express.js
+- REST APIs · Fastify
 
 </td>
 <td valign="top" width="25%">
 
-**Cloud & Tools**
-- AWS
-- Git / GitHub
+**Cloud & Databases**
+- PostgreSQL · MongoDB
+- Supabase · AWS
 - Docker · Postman
 
 </td>
 <td valign="top" width="25%">
 
-**Data & AI**
-- LangChain · Google Gemini
-- Pandas · NumPy
-- Matplotlib
+**AI & Automation**
+- Gemini API · Multi-LLM
+- LangChain · Edge-TTS
+- ADB · Web Scraping
 
 </td>
 </tr>
@@ -83,104 +80,75 @@ about_me:
 
 ### 🚀 Featured Projects
 
-A pattern runs through most of these: find the most repetitive, manual part of a workflow, and build a system that removes the human from the loop.
+<p>A pattern runs through my work: <i>identify complex, repetitive manual processes and engineer autonomous, reliable software systems to solve them.</i></p>
 
 <table>
-<tr>
-<td width="70%">
-
-**📱⚡ SIMVox-AI (CallVox AI)**  ·  [source](https://github.com/Magraa/SIMVox-AI)
-
-An autonomous AI voice agent that turns any Android phone into a real cellular receptionist — no Twilio, no VoIP fees, no SIP trunks. It bridges a PC straight to an Android handset over **ADB and real hardware audio channels**, routes live call audio through **Google Gemini** for reasoning and **Microsoft Edge neural TTS** for sub-second, natural-sounding replies, and auto-answers or places outbound calls entirely on its own. A glassmorphic desktop dashboard shows live waveforms, live transcripts, and a searchable CRM of every call, with configurable personas for reception, scheduling, or sales — all running over a real SIM and a real phone number.
-
-</td>
-<td valign="top" width="30%">
-
-`Python` `Google Gemini`
-`Edge-TTS` `ADB`
-`PyWebView` `SQLite`
-
-</td>
-</tr>
-
-<tr>
-<td width="70%">
-
-**🧴 Mr. Proper — Loyalty, CRM &amp; ERP Platform**  ·  [mrproper.in](https://mrproper.in)
-
-A full-stack operations platform for Mr. Proper's painter and contractor network — not just a customer-facing loyalty app, but a real backend management system underneath it. It runs a **CRM** for tracking contractor relationships and engagement, an **ERP-style layer** for coupon inventory, order processing and redemption tracking, and **role-based dashboards** so admins, distributors, and painters each see only what's relevant to them. Google Maps API powers store/service lookup and Razorpay handles payments end to end.
-
-</td>
-<td valign="top" width="30%">
-
-`Next.js` `Supabase`
-`TypeScript` `Tailwind`
-`Razorpay` `Google Maps API`
-
-</td>
-</tr>
-
-<tr>
-<td width="70%">
-
-**📑 Magra Tender Automation Panel**  ·  <sub>private repo</sub>
-
-Probably the clearest example of how I like to automate: government tender paperwork is slow and repetitive, so this turns "enter the tender details once" into a full document pipeline — auto-generating the public tender notice, quotations, supply orders, and firm bills, each rendered onto a firm-specific letterhead with a print-precise A4 layout engine. An **AI drafting layer** (with automatic fallback across Gemini, OpenAI, Groq, and NVIDIA) writes procurement-grade language in **Hindi or English**, backed by a master "purpose library" and a Hindi transliteration dictionary so every document stays consistent. Every edit is versioned, and the whole thing runs fully offline against a local database.
-
-</td>
-<td valign="top" width="30%">
-
-`Next.js 15` `TypeScript`
-`TipTap` `IndexedDB`
-`Multi-provider AI`
-
-</td>
-</tr>
-
-<tr>
-<td width="70%">
-
-**🤝 Couple Trust**  ·  <sub>private repo</sub>
-
-A privacy-first Android app for couples to voluntarily share digital-usage data with each other — built around explicit, mutual, and **revocable consent** rather than blanket monitoring.
-
-</td>
-<td valign="top" width="30%">
-
-`Android` `HTML`
-
-</td>
-</tr>
-
-<tr>
-<td width="70%">
-
-**💰 AI Expense Tracker**  ·  <sub>private repo</sub>
-
-A personal finance tool that uses AI to categorize transactions and surface spending patterns automatically, instead of leaving that work to a spreadsheet.
-
-</td>
-<td valign="top" width="30%">
-
-`TypeScript`
-
-</td>
-</tr>
-
-<tr>
-<td width="70%">
-
-**🧭 ADB Developer Studio**  ·  [source](https://github.com/Magraa/adb-developer-studio)
-
-Desktop suite for Android developers — one-click ADB wireless reconnect, a build watcher, instant screenshot-to-clipboard, and live log tailing.
-
-</td>
-<td valign="top" width="30%">
-
-`Python` `PyWebView`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/Magraa/FinAudit-AI">FinAudit AI</a></h3>
+      <p>Financial intelligence & fraud audit platform. Ingests statement screenshots via OCR + LLMs (Gemini/Groq), parses multi-bank PDFs/CSVs, and detects duplicate & fraudulent claims.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-4E75F8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📑 <a href="https://github.com/Magraa/TenderFlow-AI">TenderFlow AI</a></h3>
+      <p>Autonomous government procurement suite. 1-click multi-document drafting (notices, quotations, supply orders, bills), bilingual Hindi/English AI engine, and pixel-precise A4 letterheads.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Multi--LLM-E0A24A?style=flat-square" />
+        <img src="https://img.shields.io/badge/TipTap-000000?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/Magraa/SIMVox-AI">SIMVox AI</a></h3>
+      <p>Zero-VoIP autonomous AI voice agent bridging Android SIMs directly to Google Gemini LLM & Edge Neural TTS over ADB for real-time cellular auto-answering and outbound calling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_LLM-4E75F8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Edge--TTS-0078D7?style=flat-square" />
+        <img src="https://img.shields.io/badge/PyWebView-2ea44f?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧴 <a href="https://github.com/Magraa/ProperCoupons">ProperCoupons / CRM</a></h3>
+      <p>Enterprise loyalty & ERP management platform for Mr. Proper contractor network with cryptographic code engine, 300 DPI duplex print PDFs, and mobile redemption portal.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧭 <a href="https://github.com/Magraa/adb-developer-studio">ADB Developer Studio</a></h3>
+      <p>High-speed desktop utility suite for Android engineers with 1-click ADB wireless reconnect, build watcher, clipboard screenshot capture, and real-time logcat streaming.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyWebView-2ea44f?style=flat-square" />
+        <img src="https://img.shields.io/badge/Desktop_GUI-64748B?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/Magraa/RentPerfect">RentPerfect</a></h3>
+      <p>Modern zero-brokerage rental marketplace with verified listings, 8-step owner wizard, instant OTP lead generation, and built-in owner CRM dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -192,7 +160,7 @@ Desktop suite for Android developers — one-click ADB wireless reconnect, a bui
   <img src="https://img.shields.io/badge/source-GitHub%20Actions-e0a24a?style=flat-square" />
 </p>
 
-<sub>This whole section rewrites itself — a GitHub Action pulls my most recent commits every 6 hours and pushes the update. No manual edits, ever.</sub>
+<sub>This section auto-updates every 6 hours via GitHub Actions tracking recent public activity.</sub>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Magraa&theme=tokyo-night&hide_border=true&area=true" width="100%"/>

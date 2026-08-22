@@ -68,10 +68,14 @@ jobs:
                   continue
 
           REPO_ICON = {
-              "simvox-ai": "📱",
+              "finaudit": "🔍",
+              "tenderflow": "📑",
+              "simvox": "📱",
+              "propercoupons": "🧴",
               "mrproper": "🧴",
               "proper-perks": "🧴",
               "mr-proper": "🧴",
+              "rentperfect": "🏠",
               "tender-bill-automation": "📑",
               "tender-automation": "📑",
               "coupletrust": "🤝",
