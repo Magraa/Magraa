@@ -20,20 +20,27 @@
 
 ### 🧑‍💻 About Me
 
-<img align="right" width="333" src="https://raw.githubusercontent.com/Magraa/Magraa/main/assets/coder.gif" alt="Developer coding animation" />
+<table>
+  <tr>
+    <td width="64%" valign="top">
 
 ```yaml
 about_me:
   name: Mayank Agrawal
-  role: Full Stack & Backend Dev · AI Automation
-  status: 🚀 Open to Software Developer roles
-  focus: Distributed systems, APIs & AI pipelines
-  education: B.Tech + MBA (IT), ABV-IIITM Gwalior
-  open_source: Hacktoberfest ('19, '21, '22)
+  role: Full Stack & Backend Developer · AI Automation Engineer
+  status: 🚀 Open to Software Developer opportunities
+  focus: Distributed systems, high-performance APIs & AI workflows
+  education: Integrated B.Tech + MBA (IT) · ABV-IIITM Gwalior
+  open_source: Active Contributor (Hacktoberfest '19, '21, '22)
   reach_me: agrawalmayank1111@gmail.com
 ```
 
-<br clear="both"/>
+</td>
+<td width="36%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/Magraa/Magraa/main/assets/06f21a161921919.63cd7887d0a70.gif" width="100%" alt="Developer animation" />
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -173,13 +180,13 @@ about_me:
 <!--LATEST_ACTIVITY:START-->
 | Date | Repo | Commit | SHA |
 |:---|:---|:---|:---|
-| `2026-08-22` | 📄 [**Magraa**](https://github.com/Magraa/Magraa) | feat: add coding animation gif to about section, add Mr-Proper live p... | [`d0fc73f`](https://github.com/Magraa/Magraa/commit/d0fc73f54156210c535f8156ceaa89dc77dbc152) |
-| `2026-08-22` | 📄 [**Magraa**](https://github.com/Magraa/Magraa) | feat: revamp README with better spacing, compact project cards, and r... | [`3b9d5ef`](https://github.com/Magraa/Magraa/commit/3b9d5efb3702537df8e84d186b83645dbf204fd4) |
-| `2026-08-22` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | docs: modernize README with professional UI badges, organize docs fol... | [`72be580`](https://github.com/Magraa/TenderFlow-AI/commit/72be5808067a6219f888878cb3ff5825f72b1b37) |
-| `2026-08-22` | 📄 [**Magraa**](https://github.com/Magraa/Magraa) | Revise README for improved clarity and branding | [`e7f602d`](https://github.com/Magraa/Magraa/commit/e7f602d6be0a2d16653e2b624acc73f528ce3ee9) |
-| `2026-08-22` | 📄 [**Magraa**](https://github.com/Magraa/Magraa) | ✨ Refactor About Me section with amazing layout and animated GIF | [`201d1ee`](https://github.com/Magraa/Magraa/commit/201d1eebc80317efb4140e3d1b1628ded2340c93) |
+| `2026-08-22` | 🔧 [**FinAudit-AI**](https://github.com/Magraa/FinAudit-AI) | Readme Update | [`12cae1f`](https://github.com/Magraa/FinAudit-AI/commit/12cae1fb70f85cd643a670f6248235a353788f47) |
+| `2026-08-22` | 🔧 [**FinAudit-AI**](https://github.com/Magraa/FinAudit-AI) | chore: untrack .windsurf, organize docs, clean repository | [`ef5c67a`](https://github.com/Magraa/FinAudit-AI/commit/ef5c67a4b34d8b2fa1957b51cdcb3079911dab1b) |
+| `2026-08-22` | 🔧 [**FinAudit-AI**](https://github.com/Magraa/FinAudit-AI) | Remove branding suggestions from README | [`df6af18`](https://github.com/Magraa/FinAudit-AI/commit/df6af182a170202844b660426302b27c90c535e2) |
+| `2026-08-21` | 📄 [**Magraa**](https://github.com/Magraa/Magraa) | Add files via upload | [`bc7861e`](https://github.com/Magraa/Magraa/commit/bc7861ee5fb968877f550c2905e52fc380605adc) |
+| `2026-08-21` | 📄 [**Magraa**](https://github.com/Magraa/Magraa) | Add files via upload | [`0e105bb`](https://github.com/Magraa/Magraa/commit/0e105bb0238b78b6d6c9d141c4f001d48c0bb5e5) |
 
-<sub>🔄 Auto-updated 2026-08-22 12:42 UTC via GitHub Actions.</sub>
+<sub>🔄 Auto-updated 2026-08-22 06:42 UTC via GitHub Actions.</sub>
 <!--LATEST_ACTIVITY:END-->
 
 <br/>
