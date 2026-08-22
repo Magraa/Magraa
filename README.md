@@ -20,9 +20,7 @@
 
 ### 🧑‍💻 About Me
 
-<table>
-  <tr>
-    <td width="64%" valign="top">
+<img align="right" width="310" src="https://raw.githubusercontent.com/Magraa/Magraa/main/assets/06f21a161921919.63cd7887d0a70.gif" alt="Developer animation" />
 
 ```yaml
 about_me:
@@ -35,12 +33,7 @@ about_me:
   reach_me: agrawalmayank1111@gmail.com
 ```
 
-</td>
-<td width="36%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/Magraa/Magraa/main/assets/06f21a161921919.63cd7887d0a70.gif" width="100%" alt="Developer animation" />
-</td>
-</tr>
-</table>
+<br clear="both"/>
 
 <br/>
 
