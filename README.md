@@ -173,13 +173,13 @@ about_me:
 <!--LATEST_ACTIVITY:START-->
 | Date | Repo | Commit | SHA |
 |:---|:---|:---|:---|
-| `2026-08-22` | 🔧 [**FinAudit-AI**](https://github.com/Magraa/FinAudit-AI) | Readme Update | [`12cae1f`](https://github.com/Magraa/FinAudit-AI/commit/12cae1fb70f85cd643a670f6248235a353788f47) |
-| `2026-08-22` | 🔧 [**FinAudit-AI**](https://github.com/Magraa/FinAudit-AI) | chore: untrack .windsurf, organize docs, clean repository | [`ef5c67a`](https://github.com/Magraa/FinAudit-AI/commit/ef5c67a4b34d8b2fa1957b51cdcb3079911dab1b) |
-| `2026-08-22` | 🔧 [**FinAudit-AI**](https://github.com/Magraa/FinAudit-AI) | Remove branding suggestions from README | [`df6af18`](https://github.com/Magraa/FinAudit-AI/commit/df6af182a170202844b660426302b27c90c535e2) |
-| `2026-08-21` | 📄 [**Magraa**](https://github.com/Magraa/Magraa) | Add files via upload | [`bc7861e`](https://github.com/Magraa/Magraa/commit/bc7861ee5fb968877f550c2905e52fc380605adc) |
-| `2026-08-21` | 📄 [**Magraa**](https://github.com/Magraa/Magraa) | Add files via upload | [`0e105bb`](https://github.com/Magraa/Magraa/commit/0e105bb0238b78b6d6c9d141c4f001d48c0bb5e5) |
+| `2026-08-22` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat: enhance onboarding, theming, PDF statements, WhatsApp sharing, ... | [`b334936`](https://github.com/Magraa/Hisab-AI/commit/b334936ffa3d5d4b3eb213d802a891c9c549ce3e) |
+| `2026-08-22` | 📄 [**Magraa**](https://github.com/Magraa/Magraa) | Adjust image width in README | [`0116dba`](https://github.com/Magraa/Magraa/commit/0116dba1ed6c09a3e96c5d3db4b3cfa2247531a7) |
+| `2026-08-22` | 📄 [**Magraa**](https://github.com/Magraa/Magraa) | style: remove table borders in about me section using float-right layout | [`f0a7096`](https://github.com/Magraa/Magraa/commit/f0a709656f4b91c4e81c058344ba08389a090f1a) |
+| `2026-08-22` | 📄 [**Magraa**](https://github.com/Magraa/Magraa) | feat: replace old gif with new animation gif | [`65acf50`](https://github.com/Magraa/Magraa/commit/65acf5017c5294c6fbfbc6d61cffe764cb7ecd59) |
+| `2026-08-22` | 📄 [**Magraa**](https://github.com/Magraa/Magraa) | Adjust image width in About Me section | [`8363433`](https://github.com/Magraa/Magraa/commit/83634336e44ce45c166a62b3b36e3272cad5380c) |
 
-<sub>🔄 Auto-updated 2026-08-22 06:42 UTC via GitHub Actions.</sub>
+<sub>🔄 Auto-updated 2026-08-22 18:33 UTC via GitHub Actions.</sub>
 <!--LATEST_ACTIVITY:END-->
 
 <br/>
