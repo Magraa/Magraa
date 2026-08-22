@@ -20,16 +20,27 @@
 
 ### 🧑‍💻 About Me
 
+<table>
+  <tr>
+    <td width="64%" valign="top">
+
 ```yaml
 about_me:
   name: Mayank Agrawal
   role: Full Stack & Backend Developer · AI Automation Engineer
-  status: 🚀 Open to Software Developer opportunities — actively interviewing
-  focus: Distributed backend architecture, high-performance APIs, and AI workflow engineering
+  status: 🚀 Open to Software Developer opportunities
+  focus: Distributed systems, high-performance APIs & AI workflows
   education: Integrated B.Tech + MBA (IT) · ABV-IIITM Gwalior
   open_source: Active Contributor (Hacktoberfest '19, '21, '22)
   reach_me: agrawalmayank1111@gmail.com
 ```
+
+</td>
+<td width="36%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/Magraa/Magraa/main/assets/coder.gif" width="100%" alt="Developer coding animation" />
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -45,8 +56,8 @@ about_me:
 
 **Languages**
 - Python · TypeScript
-- JavaScript · C / C++
-- SQL · HTML / CSS
+- JavaScript · Kotlin
+- C / C++ · SQL
 
 </td>
 <td valign="top" width="25%">
@@ -61,16 +72,16 @@ about_me:
 
 **Cloud & Databases**
 - PostgreSQL · MongoDB
-- Supabase · AWS
-- Docker · Postman
+- Firebase · Supabase
+- Docker · AWS
 
 </td>
 <td valign="top" width="25%">
 
-**AI & Automation**
+**AI & Mobile**
 - Gemini API · Multi-LLM
+- Jetpack Compose · ADB
 - LangChain · Edge-TTS
-- ADB · Web Scraping
 
 </td>
 </tr>
@@ -117,35 +128,35 @@ about_me:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧴 <a href="https://github.com/Magraa/ProperCoupons">ProperCoupons / CRM</a></h3>
-      <p>Enterprise loyalty & ERP management platform for Mr. Proper contractor network with cryptographic code engine, 300 DPI duplex print PDFs, and mobile redemption portal.</p>
+      <h3>🧴 <a href="https://github.com/Magraa/Mr-Proper-Website">Mr. Proper Platform</a> · <a href="https://mrproper.in">mrproper.in</a></h3>
+      <p>Full-stack e-commerce + B2B retailer portal, field CRM (partner ledger, GPS visit logs, digital POD signatures), and ERP manufacturing console (formula batching & raw stock deduction).</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay" />
+        <img src="https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧭 <a href="https://github.com/Magraa/adb-developer-studio">ADB Developer Studio</a></h3>
-      <p>High-speed desktop utility suite for Android engineers with 1-click ADB wireless reconnect, build watcher, clipboard screenshot capture, and real-time logcat streaming.</p>
+      <h3>🎫 <a href="https://github.com/Magraa/ProperCoupons">ProperCoupons</a></h3>
+      <p>Enterprise batch loyalty token & coupon generation suite with cryptographic CSPRNG engine, 300 DPI duplex print PDF sheets, Supabase cloud sync, and mobile customer redemption portal.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyWebView-2ea44f?style=flat-square" />
-        <img src="https://img.shields.io/badge/Desktop_GUI-64748B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/ReportLab_300DPI-2ea44f?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/Magraa/RentPerfect">RentPerfect</a></h3>
-      <p>Modern zero-brokerage rental marketplace with verified listings, 8-step owner wizard, instant OTP lead generation, and built-in owner CRM dashboard.</p>
+      <h3>🤝 <a href="https://github.com/Magraa/coupletrust-app">Couple Trust (Native Android)</a></h3>
+      <p>Privacy-first native Android app for mutual digital transparency with revocable consent. Built with Clean Architecture + MVVM, Kotlin, Jetpack Compose, and Firestore security rules.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android_Native-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       </p>
     </td>
   </tr>
