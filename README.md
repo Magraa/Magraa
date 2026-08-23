@@ -173,13 +173,13 @@ about_me:
 <!--LATEST_ACTIVITY:START-->
 | Date | Repo | Commit | SHA |
 |:---|:---|:---|:---|
-| `2026-08-22` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(auth): integrate Supabase auth, schema types, and login flow | [`a2aeebf`](https://github.com/Magraa/Hisab-AI/commit/a2aeebfe73d58948aeb16f73196b05b998342369) |
-| `2026-08-22` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat: enhance onboarding, theming, PDF statements, WhatsApp sharing, ... | [`b334936`](https://github.com/Magraa/Hisab-AI/commit/b334936ffa3d5d4b3eb213d802a891c9c549ce3e) |
-| `2026-08-22` | 📄 [**Magraa**](https://github.com/Magraa/Magraa) | Adjust image width in README | [`0116dba`](https://github.com/Magraa/Magraa/commit/0116dba1ed6c09a3e96c5d3db4b3cfa2247531a7) |
-| `2026-08-22` | 📄 [**Magraa**](https://github.com/Magraa/Magraa) | style: remove table borders in about me section using float-right layout | [`f0a7096`](https://github.com/Magraa/Magraa/commit/f0a709656f4b91c4e81c058344ba08389a090f1a) |
-| `2026-08-22` | 📄 [**Magraa**](https://github.com/Magraa/Magraa) | feat: replace old gif with new animation gif | [`65acf50`](https://github.com/Magraa/Magraa/commit/65acf5017c5294c6fbfbc6d61cffe764cb7ecd59) |
+| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(ui): implement smooth spring animation system, gesture sheet, an... | [`e46ae97`](https://github.com/Magraa/Hisab-AI/commit/e46ae97eebecb2c8ae2e0fd703d4c74ae5cd058b) |
+| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(categories): add full category CRUD, custom keyword matching, an... | [`26a14ac`](https://github.com/Magraa/Hisab-AI/commit/26a14ac4cc1ab4737185a3b161f0319bb7455408) |
+| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(auth): add Sign in with Google OAuth authentication | [`278fb8e`](https://github.com/Magraa/Hisab-AI/commit/278fb8e9836a924e0f89c1173150af5db5b63ead) |
+| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(ux): set Sage default theme, add backup prompt step, and unify a... | [`21f742c`](https://github.com/Magraa/Hisab-AI/commit/21f742c05c9fb12680826ebda5663d1c5b691d65) |
+| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(sync): migrate store to Supabase cloud sync with optimistic upda... | [`298ba1e`](https://github.com/Magraa/Hisab-AI/commit/298ba1e6215a40c90681c4e4145cdf85c9bc2129) |
 
-<sub>🔄 Auto-updated 2026-08-23 01:33 UTC via GitHub Actions.</sub>
+<sub>🔄 Auto-updated 2026-08-23 06:44 UTC via GitHub Actions.</sub>
 <!--LATEST_ACTIVITY:END-->
 
 <br/>
