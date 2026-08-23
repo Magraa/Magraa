@@ -173,13 +173,13 @@ about_me:
 <!--LATEST_ACTIVITY:START-->
 | Date | Repo | Commit | SHA |
 |:---|:---|:---|:---|
-| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(ui): implement smooth spring animation system, gesture sheet, an... | [`e46ae97`](https://github.com/Magraa/Hisab-AI/commit/e46ae97eebecb2c8ae2e0fd703d4c74ae5cd058b) |
-| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(categories): add full category CRUD, custom keyword matching, an... | [`26a14ac`](https://github.com/Magraa/Hisab-AI/commit/26a14ac4cc1ab4737185a3b161f0319bb7455408) |
-| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(auth): add Sign in with Google OAuth authentication | [`278fb8e`](https://github.com/Magraa/Hisab-AI/commit/278fb8e9836a924e0f89c1173150af5db5b63ead) |
-| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(ux): set Sage default theme, add backup prompt step, and unify a... | [`21f742c`](https://github.com/Magraa/Hisab-AI/commit/21f742c05c9fb12680826ebda5663d1c5b691d65) |
-| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(sync): migrate store to Supabase cloud sync with optimistic upda... | [`298ba1e`](https://github.com/Magraa/Hisab-AI/commit/298ba1e6215a40c90681c4e4145cdf85c9bc2129) |
+| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(onboarding): polish onboarding steps, layout shell, and visual s... | [`67147bb`](https://github.com/Magraa/Hisab-AI/commit/67147bba94f23ea21801f8ff2588467dff3eaed8) |
+| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | fix(ui): remove dev onboarding restart button, update PWA logo path t... | [`026c7c7`](https://github.com/Magraa/Hisab-AI/commit/026c7c737dfdd9596abe76c36f9e5127895f5519) |
+| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | docs: add 260+ avatar showcase grid, PWA offline details, and Google ... | [`16dfa41`](https://github.com/Magraa/Hisab-AI/commit/16dfa414d890487f5f067eec7893b893d23e4bb2) |
+| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | fix(cloud): improve profile initialization, local data import reliabi... | [`1f2b3e3`](https://github.com/Magraa/Hisab-AI/commit/1f2b3e3049474e4683d7acb61b01728db9990379) |
+| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(onboarding): add top Google sign-in button and side-by-side auth... | [`d91fd2b`](https://github.com/Magraa/Hisab-AI/commit/d91fd2b57941d585092459cb8843386f4d5c18c1) |
 
-<sub>🔄 Auto-updated 2026-08-23 06:44 UTC via GitHub Actions.</sub>
+<sub>🔄 Auto-updated 2026-08-23 12:44 UTC via GitHub Actions.</sub>
 <!--LATEST_ACTIVITY:END-->
 
 <br/>
