@@ -173,13 +173,13 @@ about_me:
 <!--LATEST_ACTIVITY:START-->
 | Date | Repo | Commit | SHA |
 |:---|:---|:---|:---|
-| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(onboarding): polish onboarding steps, layout shell, and visual s... | [`67147bb`](https://github.com/Magraa/Hisab-AI/commit/67147bba94f23ea21801f8ff2588467dff3eaed8) |
-| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | fix(ui): remove dev onboarding restart button, update PWA logo path t... | [`026c7c7`](https://github.com/Magraa/Hisab-AI/commit/026c7c737dfdd9596abe76c36f9e5127895f5519) |
-| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | docs: add 260+ avatar showcase grid, PWA offline details, and Google ... | [`16dfa41`](https://github.com/Magraa/Hisab-AI/commit/16dfa414d890487f5f067eec7893b893d23e4bb2) |
-| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | fix(cloud): improve profile initialization, local data import reliabi... | [`1f2b3e3`](https://github.com/Magraa/Hisab-AI/commit/1f2b3e3049474e4683d7acb61b01728db9990379) |
-| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(onboarding): add top Google sign-in button and side-by-side auth... | [`d91fd2b`](https://github.com/Magraa/Hisab-AI/commit/d91fd2b57941d585092459cb8843386f4d5c18c1) |
+| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(auth): sync Gemini API key to user profile across devices | [`af7e5f4`](https://github.com/Magraa/Hisab-AI/commit/af7e5f4513d47d6223417628667275b41e3ee44d) |
+| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(ai): add quick parsing engine switcher in home header and settings | [`529c23c`](https://github.com/Magraa/Hisab-AI/commit/529c23cd19c7f06a18c70af050b99761525962ef) |
+| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | docs: add 300+ merchant intelligence section with 3x8 brand logo grid... | [`6c4c228`](https://github.com/Magraa/Hisab-AI/commit/6c4c228e8fc31809a7f4e4e0212082bb524b268c) |
+| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | Change logo image format to WEBP | [`c1a1f35`](https://github.com/Magraa/Hisab-AI/commit/c1a1f35c1becfc1bfd829d10acf5e8314ac53df8) |
+| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | docs: add Hybrid AI text parsing, 3-way mode switch, thinking state, ... | [`c049db2`](https://github.com/Magraa/Hisab-AI/commit/c049db2bfdd8434b98d7797f97920dea089518fd) |
 
-<sub>🔄 Auto-updated 2026-08-23 12:44 UTC via GitHub Actions.</sub>
+<sub>🔄 Auto-updated 2026-08-23 18:32 UTC via GitHub Actions.</sub>
 <!--LATEST_ACTIVITY:END-->
 
 <br/>
