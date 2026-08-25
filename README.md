@@ -173,13 +173,13 @@ about_me:
 <!--LATEST_ACTIVITY:START-->
 | Date | Repo | Commit | SHA |
 |:---|:---|:---|:---|
+| `2026-08-25` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | fix(gem): configure Mumbai region (bom1), browser headers, and timeou... | [`7cb2bef`](https://github.com/Magraa/TenderFlow-AI/commit/7cb2bef4fddafe63db107ebae8983ba089afddec) |
+| `2026-08-25` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | Remove project names and topics from README | [`11a8a2d`](https://github.com/Magraa/TenderFlow-AI/commit/11a8a2d8347c6c71246127a6ce777d7dcc555492) |
+| `2026-08-25` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | feat: add QuickCustomizer drawer, smart product autocomplete, 4-tier ... | [`7c8ce06`](https://github.com/Magraa/TenderFlow-AI/commit/7c8ce06e23f7c0986fd23ec6dbb0920f47a0cd51) |
+| `2026-08-25` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | feat: add GeM (Government e-Marketplace) live tender explorer & 1-cli... | [`c34f0a7`](https://github.com/Magraa/TenderFlow-AI/commit/c34f0a72f6148b9392724bb3fe84fe652f45d4ec) |
 | `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat: add multi-entry parsing & confirm sheet, cascade account deleti... | [`64e29a4`](https://github.com/Magraa/Hisab-AI/commit/64e29a4c709b3912e69aef7c472c788747961c54) |
-| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(auth): sync Gemini API key to user profile across devices | [`af7e5f4`](https://github.com/Magraa/Hisab-AI/commit/af7e5f4513d47d6223417628667275b41e3ee44d) |
-| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | feat(ai): add quick parsing engine switcher in home header and settings | [`529c23c`](https://github.com/Magraa/Hisab-AI/commit/529c23cd19c7f06a18c70af050b99761525962ef) |
-| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | docs: add 300+ merchant intelligence section with 3x8 brand logo grid... | [`6c4c228`](https://github.com/Magraa/Hisab-AI/commit/6c4c228e8fc31809a7f4e4e0212082bb524b268c) |
-| `2026-08-23` | 🔧 [**Hisab-AI**](https://github.com/Magraa/Hisab-AI) | Change logo image format to WEBP | [`c1a1f35`](https://github.com/Magraa/Hisab-AI/commit/c1a1f35c1becfc1bfd829d10acf5e8314ac53df8) |
 
-<sub>🔄 Auto-updated 2026-08-25 06:52 UTC via GitHub Actions.</sub>
+<sub>🔄 Auto-updated 2026-08-25 12:51 UTC via GitHub Actions.</sub>
 <!--LATEST_ACTIVITY:END-->
 
 <br/>
