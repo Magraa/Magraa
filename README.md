@@ -173,13 +173,13 @@ about_me:
 <!--LATEST_ACTIVITY:START-->
 | Date | Repo | Commit | SHA |
 |:---|:---|:---|:---|
-| `2026-08-26` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | fix(icons): update icon.svg with TenderFlow AI logo | [`b4e7015`](https://github.com/Magraa/TenderFlow-AI/commit/b4e70153b8d8f629e3f90e60c79e51901b1cb26c) |
-| `2026-08-26` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | feat: add AI tender deep analysis, real-time quota tracking HUD & upd... | [`96cffc1`](https://github.com/Magraa/TenderFlow-AI/commit/96cffc16fb6d24af7614eb86391acbf51f588fe1) |
-| `2026-08-26` | 📱 [**SIMVox-AI**](https://github.com/Magraa/SIMVox-AI) | Rename CallVox AI to SIMVox AI in README | [`3b1cf1b`](https://github.com/Magraa/SIMVox-AI/commit/3b1cf1bdeb32bde09a0efd0aefee0b1102eb1683) |
-| `2026-08-26` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | fix: remove vercel cron in favor of external cron-job.org | [`8f243e4`](https://github.com/Magraa/TenderFlow-AI/commit/8f243e49a7ec34380d27d02dad86b339fbcc3d04) |
-| `2026-08-26` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | feat(worker): continuous AI background worker loop with auto-sequenci... | [`f9a609d`](https://github.com/Magraa/TenderFlow-AI/commit/f9a609dcffe60a65be9d3d6faeb4bf779f338245) |
+| `2026-08-27` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | fix(firestore): direct collection queries for scan logs and profiles ... | [`f689009`](https://github.com/Magraa/TenderFlow-AI/commit/f689009bbeac6573e4c1c91bf22e0168ec2e0cef) |
+| `2026-08-26` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | fix(settings): sanitize undefined values in aiSettings and recursivel... | [`1d8c2af`](https://github.com/Magraa/TenderFlow-AI/commit/1d8c2af757efa7065f9f47bcada02519ed8176bd) |
+| `2026-08-26` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | fix(ai-quota): respect showQuotaPill visibility toggle and instant re... | [`97932d9`](https://github.com/Magraa/TenderFlow-AI/commit/97932d9f1b6d06d5ce28f8c658f5c1a8b1ab7f42) |
+| `2026-08-26` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | feat(branding): update PWA name to TenderFlow AI and regenerate all i... | [`4e206ab`](https://github.com/Magraa/TenderFlow-AI/commit/4e206abb615d980ca3aefef0d742685667dc6b75) |
+| `2026-08-26` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | refactor(ui): modularize settings dashboard into dedicated sections &... | [`d94d8ba`](https://github.com/Magraa/TenderFlow-AI/commit/d94d8bac70b3476e8126d7e81db235b373d67613) |
 
-<sub>🔄 Auto-updated 2026-08-26 19:50 UTC via GitHub Actions.</sub>
+<sub>🔄 Auto-updated 2026-08-27 08:13 UTC via GitHub Actions.</sub>
 <!--LATEST_ACTIVITY:END-->
 
 <br/>
