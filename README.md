@@ -173,13 +173,13 @@ about_me:
 <!--LATEST_ACTIVITY:START-->
 | Date | Repo | Commit | SHA |
 |:---|:---|:---|:---|
+| `2026-08-27` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | docs(readme): add official TenderFlow AI horizontal logo banner | [`f9b5ea3`](https://github.com/Magraa/TenderFlow-AI/commit/f9b5ea3f4dd57d1ccc4b6722f7e7260a8b0b1927) |
 | `2026-08-26` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | chore: ignore and untrack png files in public/Assets, update dashboar... | [`656aa1b`](https://github.com/Magraa/TenderFlow-AI/commit/656aa1bd5d261870dfedd61b68fccfa8f306d29e) |
 | `2026-08-26` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | fix(scanner): enhance server-side tender scanner, profile management ... | [`5b93ed6`](https://github.com/Magraa/TenderFlow-AI/commit/5b93ed6ac4541585ffb87f22492ccc3694923388) |
 | `2026-08-27` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | fix(firestore): direct collection queries for scan logs and profiles ... | [`f689009`](https://github.com/Magraa/TenderFlow-AI/commit/f689009bbeac6573e4c1c91bf22e0168ec2e0cef) |
 | `2026-08-26` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | fix(settings): sanitize undefined values in aiSettings and recursivel... | [`1d8c2af`](https://github.com/Magraa/TenderFlow-AI/commit/1d8c2af757efa7065f9f47bcada02519ed8176bd) |
-| `2026-08-26` | 📑 [**TenderFlow-AI**](https://github.com/Magraa/TenderFlow-AI) | fix(ai-quota): respect showQuotaPill visibility toggle and instant re... | [`97932d9`](https://github.com/Magraa/TenderFlow-AI/commit/97932d9f1b6d06d5ce28f8c658f5c1a8b1ab7f42) |
 
-<sub>🔄 Auto-updated 2026-08-27 21:57 UTC via GitHub Actions.</sub>
+<sub>🔄 Auto-updated 2026-08-28 10:15 UTC via GitHub Actions.</sub>
 <!--LATEST_ACTIVITY:END-->
 
 <br/>
