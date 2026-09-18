@@ -173,13 +173,13 @@ about_me:
 <!--LATEST_ACTIVITY:START-->
 | Date | Repo | Commit | SHA |
 |:---|:---|:---|:---|
-| `2026-09-17` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | feat: setup Instagram webhook verification, compliance pages, and pro... | [`e94c03a`](https://github.com/Magraa/creator-commerce-platform/commit/e94c03a60a5d0fcba00d811ea7592f228509b0e2) |
-| `2026-09-15` | 📑 [**TenderFlow-AI-Showcase**](https://github.com/Magraa/TenderFlow-AI-Showcase) | docs: add architecture showcase, comprehensive documentation, logo as... | [`fadd5ae`](https://github.com/Magraa/TenderFlow-AI-Showcase/commit/fadd5ae1c1b327b0858fb7d5ed1381bb69efd2c5) |
-| `2026-09-14` | 🔧 [**BillPulse**](https://github.com/Magraa/BillPulse) | chore: ignore .vercel directory | [`b831581`](https://github.com/Magraa/BillPulse/commit/b8315818b700b39c19ab439d7626556427f18412) |
-| `2026-09-14` | 🔧 [**BillPulse-Showcase**](https://github.com/Magraa/BillPulse-Showcase) | docs: add MIT license for showcase documentation | [`9232aa7`](https://github.com/Magraa/BillPulse-Showcase/commit/9232aa71aef996785bd0b1ee70d70fdedc339359) |
-| `2026-09-14` | 🔧 [**BillPulse-Showcase**](https://github.com/Magraa/BillPulse-Showcase) | docs: add in-depth ARCHITECTURE document | [`4da3a85`](https://github.com/Magraa/BillPulse-Showcase/commit/4da3a8557e75d84502f51b3d1ca70c47cee20607) |
+| `2026-09-18` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | fix(auth): unify supabase ssr cookie handling and eliminate redirect ... | [`dd19647`](https://github.com/Magraa/creator-commerce-platform/commit/dd19647f7e343d8d42479bee4c1f9e0c41533d79) |
+| `2026-09-18` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | fix(auth): unify cookie domain to .shoboti.com and resolve /admin/set... | [`4712c1e`](https://github.com/Magraa/creator-commerce-platform/commit/4712c1e3a3a057c9703059d61b0f30e14a283b9a) |
+| `2026-09-18` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | docs: update session handoff with instagram content commerce and sync... | [`96c1df8`](https://github.com/Magraa/creator-commerce-platform/commit/96c1df81b69a71de1fb57e6a96510fbf9e69d3cf) |
+| `2026-09-18` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | feat(sync): connect live sync button, handle video thumbnails, prune ... | [`e8ebdfe`](https://github.com/Magraa/creator-commerce-platform/commit/e8ebdfe28212e1aee8c9f83c915ef58881737d38) |
+| `2026-09-18` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | feat(instagram): display real follower count, live media sync, and em... | [`787c172`](https://github.com/Magraa/creator-commerce-platform/commit/787c1729532cf041a2ae27ba070df309740efd91) |
 
-<sub>🔄 Auto-updated 2026-09-18 10:47 UTC via GitHub Actions.</sub>
+<sub>🔄 Auto-updated 2026-09-18 16:02 UTC via GitHub Actions.</sub>
 <!--LATEST_ACTIVITY:END-->
 
 <br/>
