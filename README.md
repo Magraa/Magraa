@@ -173,13 +173,13 @@ about_me:
 <!--LATEST_ACTIVITY:START-->
 | Date | Repo | Commit | SHA |
 |:---|:---|:---|:---|
+| `2026-09-19` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | feat(reels): add public reel stream endpoint, robust video resolution... | [`d6452dc`](https://github.com/Magraa/creator-commerce-platform/commit/d6452dc69ec9bfe3f296a4efaa86c668775e01e6) |
+| `2026-09-19` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | feat(compliance): expand legal, policy, and compliance pages for Meta... | [`ed6c1df`](https://github.com/Magraa/creator-commerce-platform/commit/ed6c1dfe9e3021694f7af04935b3443c7d43b3af) |
+| `2026-09-19` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | fix(ui): make Health & Diagnostics dialog overlay over the entire pag... | [`3442288`](https://github.com/Magraa/creator-commerce-platform/commit/344228880c3607bbcfd1abfe3b8f049dacff78de) |
+| `2026-09-19` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | fix(automations): restore graph.instagram.com endpoint, auto-subscrib... | [`57e26bc`](https://github.com/Magraa/creator-commerce-platform/commit/57e26bc42e6bf9ba3c5aa637f0bdbb8c2c921431) |
 | `2026-09-18` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | fix(automations): resolve Meta mediaId to content UUID and set graph.... | [`8aa483e`](https://github.com/Magraa/creator-commerce-platform/commit/8aa483e0717cda74aeda98c2de8d5becb8a3c2cd) |
-| `2026-09-18` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | fix(auth): sanitize chunked vs unchunked cookies and isolate admin lo... | [`bf380c6`](https://github.com/Magraa/creator-commerce-platform/commit/bf380c6eba303bee48130e4586e3e60763e2068f) |
-| `2026-09-18` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | feat(media): implement direct Cloudflare R2 upload, presigned URLs, a... | [`fa4a97f`](https://github.com/Magraa/creator-commerce-platform/commit/fa4a97f7ce2b80d97b91361386b40acc4818d1d3) |
-| `2026-09-18` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | feat(marketing): add marketing automations, Instagram AI DM handler, ... | [`d515dc0`](https://github.com/Magraa/creator-commerce-platform/commit/d515dc0c89b9afbd95b24b209dda9fb699f17061) |
-| `2026-09-18` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | fix(auth): unify supabase ssr cookie handling and eliminate redirect ... | [`dd19647`](https://github.com/Magraa/creator-commerce-platform/commit/dd19647f7e343d8d42479bee4c1f9e0c41533d79) |
 
-<sub>🔄 Auto-updated 2026-09-19 03:46 UTC via GitHub Actions.</sub>
+<sub>🔄 Auto-updated 2026-09-19 10:31 UTC via GitHub Actions.</sub>
 <!--LATEST_ACTIVITY:END-->
 
 <br/>
