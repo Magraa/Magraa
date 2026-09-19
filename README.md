@@ -173,13 +173,13 @@ about_me:
 <!--LATEST_ACTIVITY:START-->
 | Date | Repo | Commit | SHA |
 |:---|:---|:---|:---|
+| `2026-09-18` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | fix(admin): enforce database follower count (15) and sync reels over ... | [`62e1208`](https://github.com/Magraa/creator-commerce-platform/commit/62e12084e105c457c4d81869c019453febf06e89) |
+| `2026-09-18` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | fix(instagram): resolve Invalid platform app by enforcing Instagram A... | [`a83197c`](https://github.com/Magraa/creator-commerce-platform/commit/a83197c09ad60bda3d55de6d01d7df41fca5fa25) |
 | `2026-09-19` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | feat(reels): add public reel stream endpoint, robust video resolution... | [`d6452dc`](https://github.com/Magraa/creator-commerce-platform/commit/d6452dc69ec9bfe3f296a4efaa86c668775e01e6) |
 | `2026-09-19` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | feat(compliance): expand legal, policy, and compliance pages for Meta... | [`ed6c1df`](https://github.com/Magraa/creator-commerce-platform/commit/ed6c1dfe9e3021694f7af04935b3443c7d43b3af) |
 | `2026-09-19` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | fix(ui): make Health & Diagnostics dialog overlay over the entire pag... | [`3442288`](https://github.com/Magraa/creator-commerce-platform/commit/344228880c3607bbcfd1abfe3b8f049dacff78de) |
-| `2026-09-19` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | fix(automations): restore graph.instagram.com endpoint, auto-subscrib... | [`57e26bc`](https://github.com/Magraa/creator-commerce-platform/commit/57e26bc42e6bf9ba3c5aa637f0bdbb8c2c921431) |
-| `2026-09-18` | 🔧 [**creator-commerce-platform**](https://github.com/Magraa/creator-commerce-platform) | fix(automations): resolve Meta mediaId to content UUID and set graph.... | [`8aa483e`](https://github.com/Magraa/creator-commerce-platform/commit/8aa483e0717cda74aeda98c2de8d5becb8a3c2cd) |
 
-<sub>🔄 Auto-updated 2026-09-19 10:31 UTC via GitHub Actions.</sub>
+<sub>🔄 Auto-updated 2026-09-19 15:35 UTC via GitHub Actions.</sub>
 <!--LATEST_ACTIVITY:END-->
 
 <br/>
