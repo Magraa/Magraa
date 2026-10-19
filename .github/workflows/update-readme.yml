@@ -17,27 +17,37 @@ jobs:
 
       - name: Fetch recent activity and update README
         env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}
+          GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
           GH_USER: Magraa
         run: |
           python3 - <<'PY'
           import json, os, urllib.request, urllib.error, re, datetime
 
-          user = os.environ["GH_USER"]
-          token = os.environ["GH_TOKEN"]
+          user = os.environ.get("GH_USER", "Magraa")
+          token = os.environ.get("GH_TOKEN", "").strip()
 
           def gh_get(url):
-              req = urllib.request.Request(
-                  url,
-                  headers={
-                      "Authorization": f"Bearer {token}",
-                      "Accept": "application/vnd.github+json",
-                      "X-GitHub-Api-Version": "2022-11-28",
-                      "User-Agent": user,
-                  },
-              )
-              with urllib.request.urlopen(req) as resp:
-                  return json.load(resp)
+              global token
+              headers = {
+                  "Accept": "application/vnd.github+json",
+                  "X-GitHub-Api-Version": "2022-11-28",
+                  "User-Agent": user,
+              }
+              if token:
+                  headers["Authorization"] = f"Bearer {token}"
+              req = urllib.request.Request(url, headers=headers)
+              try:
+                  with urllib.request.urlopen(req) as resp:
+                      return json.load(resp)
+              except urllib.error.HTTPError as e:
+                  if e.code == 401 and token:
+                      print(f"::warning::Token authentication returned 401 Unauthorized. Retrying unauthenticated...")
+                      token = ""
+                      del headers["Authorization"]
+                      req_unauth = urllib.request.Request(url, headers=headers)
+                      with urllib.request.urlopen(req_unauth) as resp:
+                          return json.load(resp)
+                  raise
 
           events = gh_get(f"https://api.github.com/users/{user}/events?per_page=50")
           push_events = [ev for ev in events if ev.get("type") == "PushEvent"]
@@ -68,6 +78,7 @@ jobs:
                   continue
 
           REPO_ICON = {
+              "shoboti": "🛍️",
               "finaudit": "🔍",
               "tenderflow": "📑",
               "simvox": "📱",
