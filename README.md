@@ -173,13 +173,13 @@ about_me:
 <!--LATEST_ACTIVITY:START-->
 | Date | Repo | Commit | SHA |
 |:---|:---|:---|:---|
+| `2026-10-26` | 🔧 [**mehtab-mahal-agra**](https://github.com/Magraa/mehtab-mahal-agra) | Add public invoice view, shared InvoiceSheet component, and verificat... | [`12fb933`](https://github.com/Magraa/mehtab-mahal-agra/commit/12fb93338505e86c35b22a44a56467170521d0cf) |
+| `2026-10-26` | 🔧 [**mehtab-mahal-agra**](https://github.com/Magraa/mehtab-mahal-agra) | Add GST compliant invoicing, PDF generation, sharing, and admin views | [`94a8be9`](https://github.com/Magraa/mehtab-mahal-agra/commit/94a8be96b5520d0622017cd6fc05d3e7b61ca7c6) |
 | `2026-10-25` | 🔧 [**qfirst**](https://github.com/Magraa/qfirst) | Optimize performance: data caching, FTS5 search, PPR streaming, and P... | [`d15a9c4`](https://github.com/Magraa/qfirst/commit/d15a9c47c62ef5946583bad499f79f075cbd168f) |
 | `2026-10-25` | 🔧 [**qfirst**](https://github.com/Magraa/qfirst) | QFirst veterinary revision platform with Turso backend | [`1e1a830`](https://github.com/Magraa/qfirst/commit/1e1a830d8c64a7145736f0d34041aafc4e1be817) |
 | `2026-10-23` | 📄 [**Magraa.github.io**](https://github.com/Magraa/Magraa.github.io) | feat(seo): add custom 1200x630 OG preview image showing portfolio hero | [`a4b8b17`](https://github.com/Magraa/Magraa.github.io/commit/a4b8b1706f524ccbd84689038b0375a517aeab3b) |
-| `2026-10-22` | 📄 [**Magraa.github.io**](https://github.com/Magraa/Magraa.github.io) | fix(mascot): remove duplicate isMobile variable declaration in tick loop | [`275b615`](https://github.com/Magraa/Magraa.github.io/commit/275b61590e2cd69967493244af1af3200c4882b6) |
-| `2026-10-22` | 📄 [**Magraa.github.io**](https://github.com/Magraa/Magraa.github.io) | feat(mobile): optimize vertical scroll rhythm, add 3-screen mockups f... | [`ea5d206`](https://github.com/Magraa/Magraa.github.io/commit/ea5d2060bf4c24ba3df7f1b6be18301fc0b1a407) |
 
-<sub>🔄 Auto-updated 2026-10-26 03:51 UTC via GitHub Actions.</sub>
+<sub>🔄 Auto-updated 2026-10-26 12:29 UTC via GitHub Actions.</sub>
 <!--LATEST_ACTIVITY:END-->
 
 <br/>
