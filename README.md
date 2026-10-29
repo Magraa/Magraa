@@ -173,13 +173,13 @@ about_me:
 <!--LATEST_ACTIVITY:START-->
 | Date | Repo | Commit | SHA |
 |:---|:---|:---|:---|
+| `2026-10-28` | 🔧 [**qfirst**](https://github.com/Magraa/qfirst) | Extend Veterinary Nutrition bank with Top-100 ranked questions and up... | [`d01f1e6`](https://github.com/Magraa/qfirst/commit/d01f1e6ce8e90bde8ea45ed97bacfda30c140a16) |
+| `2026-10-28` | 🔧 [**saraiOS**](https://github.com/Magraa/saraiOS) | feat: add multi-gateway payments, email notification settings, and up... | [`9900372`](https://github.com/Magraa/saraiOS/commit/9900372faa94f353ef9b502177f8abacee68bb76) |
+| `2026-10-28` | 🔧 [**qfirst**](https://github.com/Magraa/qfirst) | Add Veterinary Nutrition course and support course-scoped question codes | [`147dec2`](https://github.com/Magraa/qfirst/commit/147dec2165346e991c617806887bb0038610b97b) |
+| `2026-10-28` | 🔧 [**saraios-central-api**](https://github.com/Magraa/saraios-central-api) | feat: add multi-gateway payments, email delivery pipeline, and db mig... | [`182748a`](https://github.com/Magraa/saraios-central-api/commit/182748af7c68b8ed60f43f43033446f379075fe5) |
 | `2026-10-28` | 🔧 [**saraios-central-api**](https://github.com/Magraa/saraios-central-api) | fix: use @hono/node-server/vercel handle for nodejs serverless runtime | [`3554646`](https://github.com/Magraa/saraios-central-api/commit/35546468fd6aa8addfe0332165d39f1f3faf0980) |
-| `2026-10-28` | 🔧 [**qfirst**](https://github.com/Magraa/qfirst) | Support per-course ranked lists and extend Biochemistry to Top 70 | [`67ccec4`](https://github.com/Magraa/qfirst/commit/67ccec4bb88e4a9b41a934e67244422e0bbb70a0) |
-| `2026-10-28` | 🔧 [**saraiOS**](https://github.com/Magraa/saraiOS) | feat: complete platform console, finance, invoicing, and connect live... | [`39cacf8`](https://github.com/Magraa/saraiOS/commit/39cacf85dcd67c0b6f554df4fb614ab01b8c09fd) |
-| `2026-10-28` | 🔧 [**saraios-central-api**](https://github.com/Magraa/saraios-central-api) | chore: add graphify knowledge graph and report | [`dc079e7`](https://github.com/Magraa/saraios-central-api/commit/dc079e7c968e3f55a100daf6e19109a689efafde) |
-| `2026-10-28` | 🔧 [**qfirst**](https://github.com/Magraa/qfirst) | Extend Biochemistry ranking to Top 100 | [`7d4534e`](https://github.com/Magraa/qfirst/commit/7d4534e26c44dad2a1e75ea658669264f701cb0c) |
 
-<sub>🔄 Auto-updated 2026-10-29 12:30 UTC via GitHub Actions.</sub>
+<sub>🔄 Auto-updated 2026-10-29 22:33 UTC via GitHub Actions.</sub>
 <!--LATEST_ACTIVITY:END-->
 
 <br/>
