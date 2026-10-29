@@ -173,13 +173,13 @@ about_me:
 <!--LATEST_ACTIVITY:START-->
 | Date | Repo | Commit | SHA |
 |:---|:---|:---|:---|
-| `2026-10-28` | 🔧 [**saraiOS**](https://github.com/Magraa/saraiOS) | feat: complete central settings, centralized backend adapter, and pla... | [`c0aa052`](https://github.com/Magraa/saraiOS/commit/c0aa05204ed7bd1a0b55b58823ba9186429c1514) |
-| `2026-10-27` | 🔧 [**saraiOS**](https://github.com/Magraa/saraiOS) | feat: add multi-tenant platform console, migration plans, and updated... | [`10c1843`](https://github.com/Magraa/saraiOS/commit/10c18434afb61f31e132ee9c5c1eaebfa46dd3cc) |
-| `2026-10-27` | 🔧 [**saraiOS-demo-frontend**](https://github.com/Magraa/saraiOS-demo-frontend) | feat: connect storefront to saraiOS platform catalog and dynamic site... | [`3ed6bdb`](https://github.com/Magraa/saraiOS-demo-frontend/commit/3ed6bdb66b2aa361a1134997f153cc1ef05f0164) |
-| `2026-10-26` | 🔧 [**qfirst**](https://github.com/Magraa/qfirst) | Add Veterinary Biochemistry course pack and source PDFs | [`d04f608`](https://github.com/Magraa/qfirst/commit/d04f608ed8cfecd55cb7e403f4d5900cb53297ee) |
-| `2026-10-26` | 🔧 [**saraiOS**](https://github.com/Magraa/saraiOS) | chore: rebrand project and repository to SaraiOS | [`120240b`](https://github.com/Magraa/saraiOS/commit/120240bd2537154911ab2f96692c1403dab280cb) |
+| `2026-10-28` | 🔧 [**qfirst**](https://github.com/Magraa/qfirst) | Support per-course ranked lists and extend Biochemistry to Top 70 | [`67ccec4`](https://github.com/Magraa/qfirst/commit/67ccec4bb88e4a9b41a934e67244422e0bbb70a0) |
+| `2026-10-28` | 🔧 [**saraiOS**](https://github.com/Magraa/saraiOS) | feat: complete platform console, finance, invoicing, and connect live... | [`39cacf8`](https://github.com/Magraa/saraiOS/commit/39cacf85dcd67c0b6f554df4fb614ab01b8c09fd) |
+| `2026-10-28` | 🔧 [**saraios-central-api**](https://github.com/Magraa/saraios-central-api) | chore: add graphify knowledge graph and report | [`dc079e7`](https://github.com/Magraa/saraios-central-api/commit/dc079e7c968e3f55a100daf6e19109a689efafde) |
+| `2026-10-28` | 🔧 [**qfirst**](https://github.com/Magraa/qfirst) | Extend Biochemistry ranking to Top 100 | [`7d4534e`](https://github.com/Magraa/qfirst/commit/7d4534e26c44dad2a1e75ea658669264f701cb0c) |
+| `2026-10-28` | 🔧 [**saraiOS-demo-frontend**](https://github.com/Magraa/saraiOS-demo-frontend) | feat: integrate booking policies, bookingCode references, and product... | [`1a9e033`](https://github.com/Magraa/saraiOS-demo-frontend/commit/1a9e03351576b85980a319029f2d71d7add104bf) |
 
-<sub>🔄 Auto-updated 2026-10-28 22:20 UTC via GitHub Actions.</sub>
+<sub>🔄 Auto-updated 2026-10-29 04:54 UTC via GitHub Actions.</sub>
 <!--LATEST_ACTIVITY:END-->
 
 <br/>
